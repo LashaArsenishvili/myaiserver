@@ -1,1 +1,4 @@
-
+WISELION_PUBLIC_URL=https://552c-94-43-195-4.ngrok-free.app
+STATUS=ONLINE
+PORT=5000
+NOTE=This address is refreshed automatically when WISELION starts.
